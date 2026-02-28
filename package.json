@@ -1,8 +1,8 @@
 {
   "name": "@gims/assets",
-  "version": "1.0.0",
-  "description": "GIMS question images — static assets for gims-trainer, gims-lms",
+  "version": "1.1.0",
+  "description": "GIMS question images and audio — static assets for gims-trainer, gims-lms",
   "private": true,
-  "files": ["questions"],
+  "files": ["questions", "audio"],
   "license": "UNLICENSED"
 }
